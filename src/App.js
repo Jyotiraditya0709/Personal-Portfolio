@@ -5,8 +5,11 @@ import { About } from "./component/about";
 import { Project } from "./component/project";
 import { Contact } from "./component/contact";
 import { Footer } from "./component/footer";
+import { useScrollAnimation } from "./useScrollAnimation";
 
 function App() {
+  useScrollAnimation();
+
   return (
     <div className="App">
       <Navbar />
