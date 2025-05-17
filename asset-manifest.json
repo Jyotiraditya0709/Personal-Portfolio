@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.91cae68c.css",
-    "main.js": "/personal-portfolio/static/js/main.1fc3c572.js",
-    "static/js/787.2bf354bc.chunk.js": "/personal-portfolio/static/js/787.2bf354bc.chunk.js",
-    "static/media/profile-pic.png": "/personal-portfolio/static/media/profile-pic.2ec338140e829b0b3d02.png",
-    "static/media/project-3.png": "/personal-portfolio/static/media/project-3.d5bf2eac8c8937a85bc3.png",
-    "static/media/project-2.png": "/personal-portfolio/static/media/project-2.2f15d9f817c3b4924ae6.png",
-    "static/media/project-1.png": "/personal-portfolio/static/media/project-1.0009f408e02c21b12607.png",
-    "static/media/about-pic.png": "/personal-portfolio/static/media/about-pic.13ec860bd93fc3094d6a.png",
-    "static/media/linkedin.png": "/personal-portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
-    "index.html": "/personal-portfolio/index.html",
-    "main.91cae68c.css.map": "/personal-portfolio/static/css/main.91cae68c.css.map",
-    "main.1fc3c572.js.map": "/personal-portfolio/static/js/main.1fc3c572.js.map",
-    "787.2bf354bc.chunk.js.map": "/personal-portfolio/static/js/787.2bf354bc.chunk.js.map"
+    "main.css": "/Personal-Portfolio/static/css/main.c5ed1059.css",
+    "main.js": "/Personal-Portfolio/static/js/main.ea2cf4f1.js",
+    "static/js/27.edaea43c.chunk.js": "/Personal-Portfolio/static/js/27.edaea43c.chunk.js",
+    "static/media/profile-pic.png": "/Personal-Portfolio/static/media/profile-pic.2ec338140e829b0b3d02.png",
+    "static/media/project-3.png": "/Personal-Portfolio/static/media/project-3.d5bf2eac8c8937a85bc3.png",
+    "static/media/project-2.png": "/Personal-Portfolio/static/media/project-2.2f15d9f817c3b4924ae6.png",
+    "static/media/project-1.png": "/Personal-Portfolio/static/media/project-1.0009f408e02c21b12607.png",
+    "static/media/about-pic.png": "/Personal-Portfolio/static/media/about-pic.13ec860bd93fc3094d6a.png",
+    "static/media/linkedin.png": "/Personal-Portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/Personal-Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.91cae68c.css",
-    "static/js/main.1fc3c572.js"
+    "static/css/main.c5ed1059.css",
+    "static/js/main.ea2cf4f1.js"
   ]
 }
